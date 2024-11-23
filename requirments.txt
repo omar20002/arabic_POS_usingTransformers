@@ -1,0 +1,21 @@
+# TensorFlow and Keras for building the sequence-to-sequence model
+tensorflow==2.11.0
+keras==2.11.0
+
+# Numpy for numerical operations
+numpy==1.23.5
+
+# Pandas for data manipulation
+pandas==1.5.3
+
+# Scikit-learn for additional machine learning utilities (e.g., train-test split)
+scikit-learn==1.1.3
+
+# NLTK for text processing
+nltk==3.8.1
+
+# Jupyter for interactive notebooks
+jupyter==1.0.0
+
+# Matplotlib for plotting (if you need any visualization)
+matplotlib==3.6.2
