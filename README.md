@@ -61,7 +61,7 @@ To perform inference with the trained model, follow these steps:
         return result
 
     # Example usage of the inference function
-    input_text = "Hello, how are you?"
+    input_text = "اهلا كيف حالك"
     print(infer(model, input_text))
     ```
 
